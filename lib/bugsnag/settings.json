@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": "error",
+      "name": "Error",
+      "description": "Error level events",
+      "selected": true
+    },
+    {
+      "id": "warning",
+      "name": "Warning",
+      "description": "Warning level events",
+      "selected": false
+    },
+    {
+      "id": "info",
+      "name": "Info",
+      "description": "Info level events",
+      "selected": false
+    }
+  ]
+}
